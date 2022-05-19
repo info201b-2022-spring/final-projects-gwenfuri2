@@ -8,4 +8,4 @@ ggplot(data, aes(x = Education, y = BasePay))+
 ggtitle("Plot") + theme(plot.title = element_text(hjust = 0.5)) +
 xlab("x-axis") + ylab("y-axis")+geom_point(size = 5)
 
-![Bar Graph](https://github.com/info201b-2022-spring/final-projects-gwenfuri2/blob/main/png%20of%20base%20n%20edu.png "image")
+
