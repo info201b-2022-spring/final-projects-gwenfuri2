@@ -1,6 +1,6 @@
-# Introductions
+# Introductions #
 
-##Why this is important
+## Why this is important ##
 The continuance of gender prejudice, which has been proved in numerous sectors, including 
 STEM fields, where women have made progress but are still less likely to continue a career or 
 be paid comparably to their male counterparts As we recover from the pandemic, it is more vital 
@@ -11,4 +11,4 @@ well in the work enviorment. The questions we are trying to identify throughout 
 What is the gender split in high-earning positions? Are factors such as gender, race, and 
 ethnicity important in determining pay disparities? Is credit given to women in the same way it is 
 
-##What the dataset will compose of
+## What the dataset will compose of ##
