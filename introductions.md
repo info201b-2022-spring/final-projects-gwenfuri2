@@ -12,3 +12,4 @@ What is the gender split in high-earning positions? Are factors such as gender, 
 ethnicity important in determining pay disparities? Is credit given to women in the same way it is 
 
 ## What the dataset will compose of ##
+The gender pay gap analysis dataset will provide insight about.....
