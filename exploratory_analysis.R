@@ -1,0 +1,1 @@
+read.csv("/Users/bellagatz/Downloads/UW/22spring/info201/project/glassdoor.csv")
