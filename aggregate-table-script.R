@@ -1,7 +1,7 @@
 library(stringr)
 library(dplyr)
 
-gender_pay_df <- read.csv("/Users/bellagatz/Downloads/UW/22spring/info201/project/glassdoor.csv")
+gender_pay_df <- read.csv("https://raw.githubusercontent.com/info201b-2022-spring/final-projects-gwenfuri2/main/GenderPGap.csv")
 
 gender_group_df <- gender_pay_df %>% 
   group_by(Gender) %>%
