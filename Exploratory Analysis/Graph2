@@ -1,0 +1,14 @@
+data <- read.csv("GenderPGap.csv")
+
+library(ggplot2)
+
+ggplot(data = data.frame(x = 1, y = c(54, 46), Key = c("Male", "Female")),
+       aes(x, y, fill = Key)) +
+  geom_col() +
+  coord_polar(theta = "y") +
+  theme_void() +
+  geom_text(aes(label = paste0(y, "%")), colour = "white", 
+            position = position_stack(vjust = 0.5), size = 6) +
+  scale_fill_manual(values = c("pink", "blue")) +
+  ggtitle("Gender Pay Difference") +
+  theme(title = element_text(size = 16, face = 2, hjust = 0.5))
