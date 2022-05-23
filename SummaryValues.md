@@ -2,7 +2,7 @@
 
 The five values that are presesnted in this summary are; the minimum base pay for men and women, the maximum base pay for men and women, the minimum bonus 
 amount for men and women,the maximum bonus amount for men and women, and lastly the amount of PhD degree holders for men and women. These values were chosen to show the
-difference in wage gap between men and women in the workplace. First the minimum base pay to see how little a woman makes compared to how little a man makes. 
+difference in wages between men and women in the workplace. First the minimum base pay to see how little a woman makes compared to how little a man makes. 
 Then the maximum base pay to find how much a woman makes compared to how little a man makes. With the bonus amount the same thinking was given there to see how 
 little and how much a man makes compared to women. Now with the degree data makeup I chose the number of PhD degrees to see the standard of education between 
 working men and women.
