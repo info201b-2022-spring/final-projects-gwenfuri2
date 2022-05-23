@@ -1,6 +1,6 @@
 # Summary of Values:
 
-<sub>The five values that are presesnted in this summary are; the minimum base pay for men and women, the maximum base pay for men and women, the minimum bonus 
+The five values that are presesnted in this summary are; the minimum base pay for men and women, the maximum base pay for men and women, the minimum bonus 
 amount for men and women,the maximum bonus amount for men and women, and lastly the amount of PhD degree holders for men and women. These values were chosen to show the
 difference in wage gap between men and women in the workplace. First the minimum base pay to see how little a woman makes compared to how little a man makes. 
 Then the maximum base pay to find how much a woman makes compared to how little a man makes. With the bonus amount the same thinking was given there to see how 
@@ -10,5 +10,5 @@ What was found was the minimum base pay for men was 36,642 while the minimum bas
 maximum base pay was 160,614. Clearly its is seen here on just the base pay men make more than women. Next we found how the minimum bonus amount for men was
 1,703 while for women it was 1,884. With the maximum bonus amount for men being  11,293 while for women being 10,768. The number of PhD male holders was 132
 while the number of female PhD holders was 106. Lastly we see here that surprisingly women have a greater bonus amount as well as holding less higher degrees 
-than men.<sub>
+than men.
 
